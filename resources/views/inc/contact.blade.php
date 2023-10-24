@@ -1,4 +1,6 @@
 <!-- ======= Contact Me Section ======= -->
+
+@extends('layouts.opp')
 <section id="contact" class="contact">
     <div class="container">
 

@@ -63,7 +63,7 @@
         </div>
         <h3>PHP</h3>
         </div>
-        <P> Lorem  Lorem  Lorem  </P>
+        <P> PHP IS BEST Lorem ipsum dolor sit amet consectetur.  </P>
        </div>
 
        <div class="skills-box">

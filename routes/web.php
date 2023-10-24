@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ContactUsFormController;
 use Illuminate\Support\Facades\Route;
 
 /*

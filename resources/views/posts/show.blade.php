@@ -8,7 +8,6 @@
                     <h1>{{ $post->title }}</h1>
                 </div>
                 <div class="card-body">
-                    <img src="{{ $post->image ?? asset('img/default.jpg') }}" alt="" class="img-fluid">
                     <p class="mt-3 mb-0">{{ $post->body }}</p>
                 </div>
                 <div class="card-footer">

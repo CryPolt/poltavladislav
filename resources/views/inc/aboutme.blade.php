@@ -12,7 +12,7 @@
 
 
       <div class="row">
-        <div class="image col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start"><img id="myphoto" src="https://sun2.beeline-kz.userapi.com/impg/xJMk_0xf_BjV1jFdPZLtt7oZfs_OJd38eL5qaA/GaKxIxqOXtU.jpg?size=604x604&quality=95&sign=7dd319df4b978028bd1ab191b2111e8d&type=album" alt="Poltavskiy" style="border-radius: 100%;filter:grayscale(30%);">        </div>
+        <div class="image col-lg-3 d-flex align-items-stretch justify-content-center justify-content-lg-start"><img id="myphoto" src="https://sun9-7.userapi.com/impg/xJMk_0xf_BjV1jFdPZLtt7oZfs_OJd38eL5qaA/GaKxIxqOXtU.jpg?size=604x604&quality=95&sign=7dd319df4b978028bd1ab191b2111e8d&type=album" alt="Poltavskiy" style="border-radius: 100%;filter:grayscale(30%);">        </div>
         <div class="col-lg-8 d-flex flex-column align-items-stretch">
           <div class="content ps-lg-4 d-flex flex-column justify-content-center">
             <div class="row">

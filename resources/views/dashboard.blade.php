@@ -9,9 +9,19 @@
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 bg-white border-b border-gray-200">
-                    You're logged in Admin Panel!
+
+@extends('layouts.site')
+
+
+    <h1 class="mt-2 mb-3">Создать пост</h1>
+    <form method="post" action="{{ route('post.store') }}" enctype="multipart/form-data">
+        @include('parts.form')
+    </form>
+
+
                 </div>
             </div>
         </div>
     </div>
+
 </x-app-layout>

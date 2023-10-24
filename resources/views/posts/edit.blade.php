@@ -21,14 +21,7 @@
         <div class="form-group">
             <input type="file" class="form-control-file" name="image">
         </div>
-        @isset($post->image)
-            <div class="form-group form-check">
-                <input type="checkbox" class="form-check-input" name="remove" id="remove">
-                <label class="form-check-label" for="remove">
-                    Удалить загруженное <a href="{{ $post->image }}" target="_blank">изображение</a>
-                </label>
-            </div>
-        @endisset
+
         <div class="form-group">
             <button type="submit" class="btn btn-primary">Сохранить</button>
         </div>

@@ -6,7 +6,7 @@ use App\Models\Contact;
 class ContactUsFormController extends Controller {
     // Create Contact Form
     public function createForm(Request $request) {
-      return view('contact');
+      return view('inc.contact');
     }
     // Store Contact Form data
     public function ContactUsForm(Request $request) {

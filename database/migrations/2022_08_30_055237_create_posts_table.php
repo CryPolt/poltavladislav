@@ -18,8 +18,6 @@ return new class extends Migration
             $table->bigInteger('author_id')->unsigned()->nullable();
             $table->string('title', 100);
             $table->string('excerpt', 200);
-            $table->string('image', 100)->nullable();
-            $table->string('thumb');
             $table->text('body');
             $table->timestamps();
              // внешний ключ, ссылается на поле id таблицы users
